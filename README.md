@@ -1,5 +1,6 @@
 ### Блок 2.2: Основы JS + Функции
 
+
 Гуглим как установить Node.js и запустить js файл.
 [Знакомство с функциями](https://learn.javascript.ru/function-basics)
 [Function-expressions](https://learn.javascript.ru/function-expressions)
